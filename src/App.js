@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  let isrc = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QbO0Q6NCNVE4uxpooMpNkUrp0_pj_nnBWg&usqp=CAU'
+  let isrc = 'https://image.newsis.com/2023/08/12/NISI20230812_0001339328_web.jpg'
   return (
     <div className="App">
       <header className="App-header">
